@@ -1,2 +1,2 @@
 # Repositorio-Autenticacao-1
-REPOSITORIO PARA AUTENTICACAO DO AMBIENTE GITHUB  DO CURSO FUNDAMENTOS GIT E GITHUB
+Repositório para autenticar no GIT e GITHUB – atividade do Curso Fundamentos GITHUB Certification – Módulo Autenticações
